@@ -92,7 +92,7 @@ function App() {
                 <div className="project-icon">
                   <i class="bi bi-robot"></i>
                 </div>
-                <h4>AI pluginS</h4>
+                <h4>AI plugin</h4>
                 <p>Deze AI plugin gebouwd met behulp van Ollama</p>
                 <a href="https://github.com/Omar-Hamdan33/ai-Plugin" className="btn btn-outline-primary">GitHub</a>
               </div>
@@ -118,7 +118,7 @@ function App() {
               <div className="contact-card">
                 <div className="contact-info">
                   <p><i className="bi bi-envelope"></i> <strong>Email:</strong> oh073827@gmail.com</p>
-                  <p><i className="bi bi-telephone"></i> <strong>Telefoon:</strong> 06-12345678</p>
+                  <p><i className="bi bi-telephone"></i> <strong>Telefoon:</strong> 06-13604254</p>
                   <p><i className="bi bi-geo-alt"></i> <strong>Woonplaats:</strong> Oudewater</p>
                 </div>
               </div>
