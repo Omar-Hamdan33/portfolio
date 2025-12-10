@@ -20,7 +20,7 @@ function App() {
               <h2>Software Developer</h2>
               <p>Ik ben geïnspireerd door mijn interesse in IT en mijn passie om te leren programmeren</p>
               <div className="hero-links">
-                <a href="mailto:oh073827@gmail.com" className="btn btn-primary">E-Mail versturen</a>
+                <a href="https://www.linkedin.com/in/omar-hamdan-03207b398/" className="btn btn-primary">Linkedin</a>
                 <a href="https://github.com/Omar-Hamdan33" className="btn btn-outline-dark">GitHub</a>
               </div>
             </div>
@@ -118,7 +118,7 @@ function App() {
               <div className="contact-card">
                 <div className="contact-info">
                   <p><i className="bi bi-envelope"></i> <strong>Email:</strong> oh073827@gmail.com</p>
-                  <p><i className="bi bi-telephone"></i> <strong>Telefoon:</strong> 06-13604254</p>
+                  <p><i className="bi bi-linkedin"></i> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/omar-hamdan-03207b398/" target="_blank" rel="noopener noreferrer">omar-hamdan-03207b398</a></p>
                   <p><i className="bi bi-geo-alt"></i> <strong>Woonplaats:</strong> Oudewater</p>
                 </div>
               </div>
